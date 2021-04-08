@@ -1,0 +1,100 @@
+a{
+  margin: 1%;
+  padding: 0.3% 0 0.1%;
+  display: inline-block;
+
+}
+
+body{
+  text-align: center;
+  margin: 0;
+  font-family: 'Merriweather Sans', sans-serif;
+}
+
+hr{
+  border-style: none;
+  border-top: dotted black;
+  border-width: 5px;
+  width: 5%;
+  margin-top: 2%;
+}
+
+h1{
+  font-size: 5.625rem;
+  color: #66BFBF;
+  font-family: 'Sacramento', cursive;
+  margin: 5% auto 0;
+}
+
+h2{
+  font-family: 'Montserrat', sans-serif;
+  color: #66BFBF;
+  font-size: 2.5rem;
+  line-height: 1.5;
+}
+
+h3{
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  line-height: 2;
+}
+
+p{
+  line-height: 1.5;
+}
+
+.Chillies{
+  width: 25%;
+  float: left;
+  margin-right: 5%;
+}
+
+.Computer{
+  width: 25%;
+  float: right;
+  margin-left: 5%;
+}
+
+.footer-link:hover{
+  color: white;
+}
+
+.footer-link{
+  color: #11999E;
+}
+
+.skill-row{
+  display: inline-block;
+  width: 50%;
+  margin-top: 2%;
+}
+
+.profile{
+  border-radius: 100%;
+}
+
+.topcontainer{
+  background-color: #cbf1f5;
+  line-height: 1.5;
+  padding-top: 10%;
+  position: relative;
+}
+
+.middlecontainer{
+}
+
+.bottomcontainer{
+  background-color: #66BFBF;
+  padding: 1% 0 0.5%;
+}
+
+.bottomcloud{
+  position: absolute;
+  right: 60%;
+}
+
+.topcloud{
+  position: absolute;
+  left: 60%;
+  top: 25%;
+}
